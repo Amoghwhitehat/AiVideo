@@ -1,0 +1,23 @@
+body{
+    background-size: cover;
+}
+.heading{
+    margin-top: 0px;
+    font-size: 50px;
+    width: 100%;
+    font-family: 'Updock', cursive;
+    text-shadow: 3px 3px 3px blueviolet;
+}
+#start{
+    font-size: 17px;
+}
+.footer{
+    bottom: 0px;
+    position: fixed;
+    font-size: 16px;;
+}
+canvas{
+    border: 3px solid red;
+    border-radius: 35px;
+    margin-top: 50px;
+}
